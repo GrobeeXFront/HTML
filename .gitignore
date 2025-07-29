@@ -1,1 +1,17 @@
 .env
+
+# Python and OS
+.env
+*.pyc
+__pycache__/
+*.log
+*.swp
+
+# IDE
+.idea/
+.vscode/
+
+# Database/local files
+*.db
+*.sqlite
+
